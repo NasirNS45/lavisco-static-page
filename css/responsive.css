@@ -1,0 +1,90 @@
+
+@media(max-width: 768px) {
+  /* For desktop: */
+  *{
+  	margin: 0;
+  }
+
+
+.top-header .header{
+	
+	font-size: 12px;
+}
+.button .button-primary{
+	position: relative;
+	width: 110%;
+	font-size: 32px;
+	color:white;
+	background-color:  #008ae6;
+	margin-top: 182px;
+	font-weight: 600;
+
+}
+.button .button-secondry{
+
+	position: relative;
+	width: 110%;
+	font-size: 32px;
+	
+	
+}
+.icon{
+	display: none;
+	
+}
+.top-header .header{
+	font-family: sans-serif;
+	font-weight: 500;
+	font-size: 34px;
+	color:black;
+	text-align: center;
+	margin-top: 80px;
+	border-top: 1px solid #cccccc;
+	border-bottom: 1px solid #cccccc;
+	line-height: 28px;
+	padding:24px;
+
+}
+.catrgories-button{
+
+	padding: 20px 180px 20px 180px;
+	margin-top: 30px;
+	font-weight: 600;
+	font-size: 60px;
+	border:1px solid #cccccc;
+	border-radius: 30px;
+	background-color: transparent;
+    box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+
+}
+.carousel-item{
+	margin-top: 0px;
+	height: 35vh;
+	min-height: 300px;
+
+}
+.carousel-caption h5{
+	font-size: 80px;
+
+}
+.carousel-caption a{
+	text-transform: uppercase;
+	 background: darkorange;
+	 padding: 25px 50px;
+	 font-size: 40px;
+	 color: #fff;
+	 margin-top: 15px;
+	 border-radius: 50px;
+}
+
+h2 {
+	color: #000;
+	font-size: 60px;
+	
+	margin: 40px 0 120px;
+}
+.carousel {
+	width: 100%;
+
+}
+}
